@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'Times New Roman', Times, serif;
+    src: url(sansation_bold.woff);
+    font-weight: bold;
+ }
+ 
+ * {
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .black{
+    border: solid 1px;
+    background-color: black;
+    rotate: 45deg;
+    height: 10px;
+    width: 100%;
+    margin-left: 100px;
+ }
+ #CARRA{
+    font-style: oblique;
+    font-size: larger;
+ }
+ .icon div{
+    overflow: auto;
+    padding-left: 1000px;
+ }
+ .container1{
+    border: none;
+    padding: 20px;
+    background-color: beige;
+    width: 0 auto;
+    margin: 20px;
+    gap: 50px;
+ }
+ .container2{
+    background-color: black;
+    border-radius: 80px;
+    height: 500px;
+    margin: 20px;
+ }
+ .h1{
+    float: left;
+ }
+ #content-right div{
+    padding-left: 1000px;
+ }
+ #home{
+    border: dotted;
+ }
+ .button{
+    background-color: black;
+    color: #ffffff;
+    border: solid 1px;
+    border-radius: 40px;
+ }
+.main_container{
+    background-color: beige;
+    height: 650px;
+    margin: 0 auto;
+    float: center;
+}
+.container3{
+    text-align: center;
+    font-size: xx-large;
+}
+.img div{
+    float: left;
+    padding-left: 250px;
+}
+.container4{
+    text-align: center;
+}
+#submit2{
+    border: solid 1px black;
+    border-radius: 40px;
+}
+.container5{
+    text-align: center;
+}
+.container right{
+    padding-left: 1000px;
+}
+.offers div{
+    float: left;
+    padding-left: 100px;
+}
+.container6{
+    text-align: center;
+}
+#arrow{
+    width: 50px;
+    height: 1px;
+    overflow-x: visible;
+    padding-left: 100px;
+}
+.container7 div{
+    float: left;
+    padding-left: 100px;
+}
+.img man{
+    width: -5px;
+    height: 10px;
+}
+.main_container{
+    justify-content: flex;
+    display: flex;
+}
+.container left div{
+    display: flex;
+    flex: auto;
+    
+}
+#text3 div{
+    padding-top: 100px;
+    text-align: center;
+}
+.container left{
+    float: left;
+    padding-left: 500px;
+}
+#submit{
+    border: solid 1px;
+    border-radius: 40px;
+}
+
+
